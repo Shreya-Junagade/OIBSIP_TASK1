@@ -2,3 +2,4 @@ OASIS INFOBYTE offers a variety of website design and development services. Got 
 
 Task1 - Calculator
 A Calculator created under the virtual internship program of Oasis Infobyte.
+In this task, I developed a calculator web application using HTML, CSS, and JavaScript. The calculator allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The interface is user-friendly and responsive.
